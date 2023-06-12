@@ -1,0 +1,2 @@
+#!/bin/bash
+head --line3 iacta |tail --line=1
